@@ -1,6 +1,6 @@
 # Authors: Peter Kim, David Koo, Tim Pao
 # Date: 4/15/2023
-# C4CC Wacode Hackathon
+# C4C Wacode Hackathon
 
 import tkinter as tk
 import matplotlib.pyplot as plt
