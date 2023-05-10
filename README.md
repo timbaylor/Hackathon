@@ -1,5 +1,7 @@
 # Baylor-Hackathon-2023
 
+Won 2nd place in our division.
+
 This year’s Hackathon projects focused on sustainability, public safety and disaster relief.
 
 The goal of the project was to educate a young audience on the importance of sustainable energy economic developments.
