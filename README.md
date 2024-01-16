@@ -1,6 +1,6 @@
 # Baylor-Hackathon-2023
 
-# Won 2nd place in our division.
+# Won 2nd place in our division at the Baylor Hackathon 2023
 
 Annual 14 hour hackathon where participants focus on coding, including research, making a PowerPoint, giving a presentation explaining what technologies each used and how it fits into one of the prompts and showing a prototype to the judges.
 
